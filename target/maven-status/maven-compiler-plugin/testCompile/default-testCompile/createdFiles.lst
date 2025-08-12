@@ -1,3 +1,5 @@
-steps\LoginSteps.class
-hooks\HooksTags.class
-runner\TestRunner.class
+com\feature\AppTest.class
+com\feature\stepdefinitions\Hooks.class
+com\feature\stepdefinitions\RegisterSteps.class
+com\feature\RunCucumberTest.class
+com\feature\stepdefinitions\StepsLogin.class
