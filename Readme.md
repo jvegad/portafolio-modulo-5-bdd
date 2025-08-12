@@ -3,7 +3,7 @@
 ## 1. Integrantes y Distribución de Tareas
 
 *   **Josselyn Vega** (GitHub: [jvegad](https://github.com/jvegad))
-    *   *Responsable de Historia de Usuario, Crud, Scenario Outline, Integración y Reporte*
+    *   *Responsable de Historia de Usuario, Crud, Integración y Reporte*
 *   **Viki Borda** (GitHub: [McKingston01](https://github.com/McKingston01))
     *   *Responsable de lecciones 1 a 6*
     
@@ -203,4 +203,5 @@ Scenario: El usuario puede cerrar sesión exitosamente                          
 [INFO] Total time:  01:19 min
 [INFO] Finished at: 2025-08-12T08:18:59-03:00
 [INFO] ------------------------------------------------------------------------
+
 ```
